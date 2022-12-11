@@ -1,0 +1,184 @@
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxApi.cpp
+FUNCTION : VB_RepBaseVM
+LINENUM  : 397
+DETAIL   : VB_RepBaseVM D:\Program Files\Nox\bin\BignoxVMS\..,base7,D:\Program Files\Nox\bin\data\base7
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxInternal.cpp
+FUNCTION : VBI_CheckSystemDisk
+LINENUM  : 1610
+DETAIL   : errinfo=  
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxApi.cpp
+FUNCTION : VB_RepBaseVM
+LINENUM  : 407
+DETAIL   : isBaseDisk1Exist : 1
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxApi.cpp
+FUNCTION : VB_Init
+LINENUM  : 632
+DETAIL   : VBI_GetISession hr = 0
+
+TIME     : 2022-12-08 17:29:58
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 4068
+
+
+TIME     : 2022-12-08 17:29:58
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 1436
+
+
+TIME     : 2022-12-08 17:29:58
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 3620
+
+
+TIME     : 2022-12-08 17:29:58
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 4044
+
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxApi.cpp
+FUNCTION : VB_FindMachine
+LINENUM  : 1815
+DETAIL   : Machine "nox" has been found.
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxApi.cpp
+FUNCTION : VB_FindMachineEx
+LINENUM  : 1185
+DETAIL   : d2 p D:\Program Files\Nox\bin\BignoxVMS\nox\nox-disk2.vmdk
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxInternal.cpp
+FUNCTION : VBI_CheckDiskRegist
+LINENUM  : 1795
+DETAIL   : errinfo=  
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxApi.cpp
+FUNCTION : VB_FindMachineEx
+LINENUM  : 1195
+DETAIL   : VBI_CheckDisk2Regist RESULT 0
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxInternal.cpp
+FUNCTION : VBI_CheckDiskRegist
+LINENUM  : 1795
+DETAIL   : errinfo=  
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxApi.cpp
+FUNCTION : VB_FindMachineEx
+LINENUM  : 1301
+DETAIL   : VBI_CheckDisk1Regist RESULT 0
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxApi.cpp
+FUNCTION : VB_FindMachineEx
+LINENUM  : 1325
+DETAIL   : Machine "nox" has been found.
+
+TIME     : 2022-12-08 17:29:58
+FILE     : VBoxApi.cpp
+FUNCTION : VB_GetMachineState
+LINENUM  : 1985
+DETAIL   : Machine Status  = 1
+
+TIME     : 2022-12-08 17:30:00
+FILE     : VBoxApi.cpp
+FUNCTION : VB_GetMachineState
+LINENUM  : 1985
+DETAIL   : Machine Status  = 1
+
+TIME     : 2022-12-08 17:30:00
+FILE     : VBoxApi.cpp
+FUNCTION : VB_DeleteNATRule
+LINENUM  : 5251
+DETAIL   : ErrorCode is "89". Detail : VB_ERR_REMOVE_NAT_PORT_FAIL
+
+TIME     : 2022-12-08 17:30:01
+FILE     : VBoxApi.cpp
+FUNCTION : VB_StartMachine
+LINENUM  : 2068
+DETAIL   : pV5Params=romx;0;romy;0;romwidth;1280;romheight;720;renderport;nox;callbackport;nox_c;rendertype;opengl;hwnd;197138;renderpath;libopenglrenderplus.dll;passthrough;NOXa.dll
+
+TIME     : 2022-12-08 17:30:01
+FILE     : VBoxApi.cpp
+FUNCTION : VB_StartMachine
+LINENUM  : 2087
+DETAIL   : NoxVMHandle pID=1552
+
+TIME     : 2022-12-08 17:30:25
+FILE     : VBoxApi.cpp
+FUNCTION : VB_StartMachine
+LINENUM  : 2118
+DETAIL   : wait over
+
+TIME     : 2022-12-08 17:30:26
+FILE     : VBoxApi.cpp
+FUNCTION : VB_GetMachineState
+LINENUM  : 1985
+DETAIL   : Machine Status  = 5
+
+TIME     : 2022-12-08 17:30:29
+FILE     : VBoxApi.cpp
+FUNCTION : VB_GetMachineState
+LINENUM  : 1985
+DETAIL   : Machine Status  = 5
+
+TIME     : 2022-12-08 17:30:31
+FILE     : VBoxApi.cpp
+FUNCTION : VB_RemoveSharedFolder
+LINENUM  : 4057
+DETAIL   : ErrorCode is "110". Detail : VB_ERR_REMOVE_SHAREDFOLDER_FAIL
+
+TIME     : 2022-12-08 17:30:31
+FILE     : VBoxApi.cpp
+FUNCTION : VB_AddSharedFolder
+LINENUM  : 3971
+DETAIL   : ErrorCode is "110". Detail : VB_ERR_REMOVE_SHAREDFOLDER_FAIL
+
+TIME     : 2022-12-08 17:30:32
+FILE     : VBoxApi.cpp
+FUNCTION : VB_RemoveSharedFolder
+LINENUM  : 4057
+DETAIL   : ErrorCode is "110". Detail : VB_ERR_REMOVE_SHAREDFOLDER_FAIL
+
+TIME     : 2022-12-08 17:30:32
+FILE     : VBoxApi.cpp
+FUNCTION : VB_AddSharedFolder
+LINENUM  : 3971
+DETAIL   : ErrorCode is "110". Detail : VB_ERR_REMOVE_SHAREDFOLDER_FAIL
+
+TIME     : 2022-12-08 17:30:32
+FILE     : VBoxApi.cpp
+FUNCTION : VB_RemoveSharedFolder
+LINENUM  : 4057
+DETAIL   : ErrorCode is "110". Detail : VB_ERR_REMOVE_SHAREDFOLDER_FAIL
+
+TIME     : 2022-12-08 17:30:32
+FILE     : VBoxApi.cpp
+FUNCTION : VB_AddSharedFolder
+LINENUM  : 3971
+DETAIL   : ErrorCode is "110". Detail : VB_ERR_REMOVE_SHAREDFOLDER_FAIL
+
+TIME     : 2022-12-08 17:32:56
+FILE     : VBoxApi.cpp
+FUNCTION : VB_CheckVM_BridgeInterFace
+LINENUM  : 7917
+DETAIL   : c bridge done
+
